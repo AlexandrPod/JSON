@@ -1,7 +1,7 @@
 {
 "Title": "Application installation error",
 "Severity": "Blocker",
-"Priority": "high",
+"Priority": "high"
   {
   "Environment:" [
   "Xiaomi redmi 4x, Android 7.1.2, MIUI Global 11.0.2.Stable",
@@ -13,7 +13,7 @@
     "download application",
     "click for install"
 ]
-}
+},
 {
   "AR": "Error message appears “There was a problem parsing the package",
   "ER": "Installing the app on the phone"
