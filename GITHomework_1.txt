@@ -36,7 +36,7 @@ XML
  8. Отправить изменения на внешний репозиторий.  -  git add new.xml && git commit -m "Add info about me" && git push
 
  9. Создать файл preferences.xml  -  touch preferences.xml
- 10. В файл preferences.xml добавить информацию о своих предпочтениях (Любимый фильм, любимый сериал, любимая еда, любимое время года, сторона которую хотели бы посетить) в формате XML.  -  echo -e '<preferences>\n<favoriteMovie>The Matrix</favoriteMovie>\n<favoriteSerial>Mandalorian</favoriteSerial>\n<favoriteFood>rice with chicken</favoriteFood>\n<favoriteTimeYear>summer</favoriteTimeYeaк>\n<countryVisit>Japan</countryVisit>\n</preferences>' > preferences.xml
+ 10. В файл preferences.xml добавить информацию о своих предпочтениях (Любимый фильм, любимый сериал, любимая еда, любимое время года, сторона которую хотели бы посетить) в формате XML.  -  echo -e '<preferences>\n<favoriteMovie>The Matrix</favoriteMovie>\n<favoriteSerial>Mandalorian</favoriteSerial>\n<favoriteFood>rice with chicken</favoriteFood>\n<favoriteTimeYear>summer</favoriteTimeYear>\n<countryVisit>Japan</countryVisit>\n</preferences>' > preferences.xml
 
  11. Создать файл sklls.xml добавить информацию о скиллах которые будут изучены на курсе в формате XML  -  echo -e '<skills>\n<skills1>Functional and non-functional testing</skills1>\n<skills2>Test design techniques</skills2>\n<skills3>Understanding programming languages</skills3>\n<skills4>Understanding the systems specifications</skills4>\n<skills5>Pumping soft skills</skills5>\n</skills>' > sklls.xml
 
